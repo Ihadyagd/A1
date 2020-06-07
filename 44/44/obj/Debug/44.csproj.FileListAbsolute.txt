@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\44\44\bin\Debug\44.exe.config
+C:\Users\User\source\repos\44\44\bin\Debug\44.exe
+C:\Users\User\source\repos\44\44\bin\Debug\44.pdb
+C:\Users\User\source\repos\44\44\obj\Debug\44.csprojAssemblyReference.cache
+C:\Users\User\source\repos\44\44\obj\Debug\44.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\44\44\obj\Debug\44.exe
+C:\Users\User\source\repos\44\44\obj\Debug\44.pdb
